@@ -33,16 +33,20 @@
         <span>Laravel</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
+	<td width="25%" align="center">
+        <span>Laravel</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/codeigniter.svg">
+      </td>
       <td width="25%" align="center">
         <span>JS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span>HTML</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-    </tr>
-    <tr valign="top">
+      </td>	
       <td width="25%" align="center">
         <span>CSS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
