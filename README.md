@@ -92,12 +92,12 @@
         <span>Pycharm</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pycharm.svg">
       </td>
-        <td width="25%" align="center">
+    </tr>
+        <tr valign="top">
+	<td width="25%" align="center">
         <span>Visual Studio</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
       </td>
-    </tr>
-        <tr valign="top">
       <td width="25%" align="center">
         <span>VS Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
