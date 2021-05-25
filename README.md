@@ -68,13 +68,11 @@
         <span>Github</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
       </td>
-           
-            <td width="25%" align="center">
+       <td width="25%" align="center">
         <span>Gitlab</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
       </td>
     </tr>
-       
   </tbody>
 </table>
 ### IDE's
