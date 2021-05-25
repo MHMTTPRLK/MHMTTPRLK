@@ -93,8 +93,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/pycharm.svg">
       </td>
 	<td width="25%" align="center">
-        <span>Sublime Text</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sublimetext.svg">
+        <span>Eclipse</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/eclipse.svg">
       </td>
     </tr>
         <tr valign="top">
