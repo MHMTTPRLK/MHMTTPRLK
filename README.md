@@ -68,21 +68,13 @@
         <span>Github</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
       </td>
-            <td width="25%" align="center">
-        <span>Gitkraken</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/gitkraken.svg">
-      </td>
+           
             <td width="25%" align="center">
         <span>Gitlab</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/gitlab.svg">
       </td>
     </tr>
-        <tr valign="top">
-      <td width="25%" align="center">
-        <span>Bitbucket</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bitbucket.svg">
-      </td>
-    </tr>
+       
   </tbody>
 </table>
 ### IDE's
@@ -109,7 +101,7 @@
         <span>VS Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td> 
-          
+         
     </tr>
   </tbody>
 </table>
