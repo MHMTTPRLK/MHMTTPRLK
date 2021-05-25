@@ -33,6 +33,10 @@
         <span>Laravel</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
+	<td width="25%" align="center">
+        <span>Codeigniter</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/codeigniter.svg">
+      </td>
       <td width="25%" align="center">
         <span>JS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
