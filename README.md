@@ -92,6 +92,10 @@
         <span>Pycharm</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pycharm.svg">
       </td>
+	<td width="25%" align="center">
+        <span>Sublime Text</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sublimetext.svg">
+      </td>
     </tr>
         <tr valign="top">
 	<td width="25%" align="center">
