@@ -11,7 +11,7 @@
   - Social Media
 
     - [![Linkedin Badge](https://img.shields.io/badge/-mehmetparlak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmet-parlak/)](https://www.linkedin.com/in/mehmet-parlak/)
-    - [![Instgram Badge](https://img.shields.io/badge/-prlkmehmet-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmet-parlak/)](https://www.linkedin.com/in/mehmet-parlak/)	
+    - [![Instgram Badge](https://img.shields.io/badge/-prlkmehmet-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/prlkmehmet/)](https://www.instagram.com/prlkmehmet/)	
 
 
 
