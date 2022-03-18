@@ -157,6 +157,10 @@
         <span>Vue.JS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
+	 <td width="25%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
+      </td>
       <td width="25%" align="center">
         <span>C#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
